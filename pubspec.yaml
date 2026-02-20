@@ -35,6 +35,26 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # 🌊 State Management
+  flutter_riverpod: ^2.5.1
+
+  # 🌐 Networking
+  dio: ^5.4.0
+
+  # 🗄 Base de datos local
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+
+  # 🧭 Navegación
+  go_router: ^14.2.0
+
+  # 🧩 Inyección de dependencias
+  get_it: ^7.7.0
+
+  # ✨ UI Utils
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.10
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -45,6 +65,10 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
+
+  # 🔧 Code generation
+  build_runner: ^2.4.9
+  isar_generator: ^3.1.0+1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
