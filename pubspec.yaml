@@ -55,6 +55,8 @@ dependencies:
   shimmer: ^3.0.0
   flutter_svg: ^2.0.10
 
+  appwrite: ^17.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
